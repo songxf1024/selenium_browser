@@ -20,3 +20,5 @@ try:
 finally:
     browser.quit_browser()
 ```
+
+![image](https://github.com/songxf1024/selenium_browser/assets/111047002/2e24eda8-a140-488d-8ac6-87c88c46667c)
