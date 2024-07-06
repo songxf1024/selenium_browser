@@ -1,7 +1,12 @@
 # selenium_browser
 A generic library to control the browser based on selenium.
 
-usage：
+# installation
+```bash
+pip install selenium webdriver_manager seleniumbase requests
+```
+
+# usage
 ```python
 from browser import Browser
 
